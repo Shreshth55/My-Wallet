@@ -36,6 +36,5 @@ npm start
 In case of any comments or advice, You can e-mail me or use Issues :)
 
 ## 🧙‍♂️ Author
-- GitHub - [Marcin Suski](https://github.com/marcinsuski)
-- LinkedIn - [marcin-suski](https://www.linkedin.com/in/marcin-suski/)
-- Porftolio - [marcinsuski.pl](https://marcinsuski.pl)
+- GitHub - [Shreshth Sudhir](https://github.com/Shreshth55)
+- LinkedIn - [Shreshth Sudhir](https://www.linkedin.com/in/shreshth-sudhir-330377237/)
