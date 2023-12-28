@@ -1,0 +1,9 @@
+.expenseItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.badge {
+    font-weight: bold;
+}
