@@ -26,12 +26,6 @@ Click the link and check the demo app: [MyWallet-link](https://ms-mywallet.netli
 
 ![](./src/assets/screenshot.JPG)
 
-## 💾 Installation
-
-git clone https://github.com/marcinsuski/mywallet.git \
-npm install\
-npm start
-
 ## ☎️ Contact
 In case of any comments or advice, You can e-mail me or use Issues :)
 
